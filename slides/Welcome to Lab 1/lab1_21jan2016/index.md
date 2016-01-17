@@ -1,6 +1,6 @@
 ---
-title       : Testing for Lecture 1
-subtitle    : Welcome!
+title       : Lab 1
+subtitle    : Welcome
 author      : Patrick Sadil
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -21,6 +21,6 @@ knit        : slidify::knit2slides
 
 ## Slide 2
 
-
+Testing...
 
 
