@@ -1,0 +1,30 @@
+---
+title: "Welcome to Lab 1"
+author: "pss"
+date: "January 17, 2016"
+output: ioslides_presentation
+---
+
+## Dates and Times
+
+- Lab Section: LS
+- T,TH: 1:00 - 2:15
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with R Code and Output
+
+```{r}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
