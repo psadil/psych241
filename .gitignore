@@ -21,3 +21,5 @@ vignettes/*.pdf
 # html output of slides
 _site/
 *.html
+
+pre/

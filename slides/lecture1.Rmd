@@ -13,8 +13,8 @@ output: ioslides_presentation
 ## Contact Information
 
 - email: psadil@umass.edu
-- Office: Tobin 426, ___ hr, or maybe by appointment
-- 
+- office: Tobin 426, ___ hr, or maybe by appointment
+- slides: https://github.com/psadil/psych241/slides
 
 ## Slide with R Code and Output
 
