@@ -5,26 +5,29 @@ date: "January 21, 2016"
 output: ioslides_presentation
 ---
 
-## Dates and Times
+## Meeting Me
+
+### Dates and Times
 
 - Lab Section: LS
 - T,TH: 1:00 - 2:15
 
-## Contact Information
+### Contact Information
 
 - email: psadil@umass.edu
 - office: Tobin 426, ___ hr, or maybe by appointment
-- slides: https://github.com/psadil/psych241/slides
+- slides: https://github.com/psadil/psych241
 
-## Slide with R Code and Output
 
-```{r}
-summary(cars)
-```
+## Meet yourselves
 
-## Slide with Plot
+ - Exchange contact information with at least one person in this class
+     - When you miss a day, make sure to figure out what you've missed
 
-```{r, echo=FALSE}
-plot(cars)
-```
+## Lab Absence Policy
 
+- Missing more than 4 labs will result in an F or withdrawel
+- In general, you are expected to attend all classes
+    - Really, the point of a lab is to get hands on experience
+- On those occasions in which you do miss lab, **you are responsible** for catching up.
+    - I will not hunt you down. You should look over the slides, and get in touch with the person whose contact info you just received.
