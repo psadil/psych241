@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Lab 1"
-author: "pss"
-date: "January 17, 2016"
+author: "Patrick Sadil"
+date: "January 21, 2016"
 output: ioslides_presentation
 ---
 
@@ -10,11 +10,11 @@ output: ioslides_presentation
 - Lab Section: LS
 - T,TH: 1:00 - 2:15
 
-## Slide with Bullets
+## Contact Information
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- email: psadil@umass.edu
+- Office: Tobin 426, ___ hr, or maybe by appointment
+- 
 
 ## Slide with R Code and Output
 
