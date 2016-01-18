@@ -3,6 +3,18 @@
   font-style: normal;
   font-weight: 400;
   src: local('Open Sans'), local('OpenSans'), url(../fonts/OpenSans.woff) format('woff');
+
+  <style>
+    em {
+  font-style: italic
+  }
+</style>
+
+<style>
+strong {
+  font-weight: bold;
+}
+</style>
 }
 @font-face {
   font-family: 'Open Sans';
@@ -22,3 +34,15 @@
   font-weight: 400;
   src: local('Open Sans Italic'), local('OpenSans-Italic'), url(../fonts/OpenSans-Italic.woff) format('woff');
 }
+
+<style>
+em {
+  font-style: italic
+}
+</style>
+
+<style>
+strong {
+  font-weight: bold;
+}
+</style>
