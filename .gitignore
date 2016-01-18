@@ -19,8 +19,8 @@ vignettes/*.pdf
 .httr-oauth
 
 # html output of slides
-_site/
-*.html
+#_site/
+#*.html
 
 pre/
 **/pre

@@ -48,15 +48,3 @@
   -moz-user-select: none;
   user-select: none;
 }
-
-<style>
-strong {
-  font-weight: bold;
-}
-</style>
-
-<style>
-em {
-  font-style: italic
-}
-</style>
