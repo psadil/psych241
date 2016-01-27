@@ -25,4 +25,7 @@ vignettes/*.pdf
 pre/
 **/pre
 
+other/
+**/other
+
 *.xlsx
