@@ -7,3 +7,6 @@ Materials for TAing UMass Amherst Psych241
 
 - [January 26, 2016](http://psadil.github.io/psych241/lab2_26jan2016.pdf)
     - [download](http://psadil.github.io/psych241/lab2_26jan2016.pptx)
+
+- [January 28, 2016](http://psadil.github.io/psych241/lab3_28jan2016.pdf)
+    - [download](http://psadil.github.io/psych241/lab3_28jan2016.pptx)
