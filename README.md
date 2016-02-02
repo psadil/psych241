@@ -19,6 +19,8 @@ Materials for TAing UMass Amherst Psych241
 - [Whole Class, SPSS output](http://psadil.github.io/psych241/SPSS_output_stroop2016.pdf)
     - [download](http://psadil.github.io/psych241/SPSS_output_stroop2016.pdf)
 
+- [Whole Class, Raw Data (download only)](http://psadil.github.io/psych241/allDataStroop.xlsx)
+
 - [Running a simple paired samples t-test in R](http://psadil.github.io/psych241/pairedSamples_tTest.pdf)
     - [download](http://psadil.github.io/psych241/pairedSamples_tTest.pdf)
 
