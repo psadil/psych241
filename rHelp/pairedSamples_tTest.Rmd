@@ -1,0 +1,82 @@
+---
+title: "Paired-Samples t-test example"
+author: "pss"
+date: "February 2, 2016"
+output: pdf_document
+---
+
+An investigator is studying the effects of background noise levels on performance in a mirror tracing task. The investigator uses a groups of 10 high school students. The students trace a star using a mirror tracting device two times, once with no background noise and once with very loud industrial music playing in the background. Half the students trace first with no background music and then a second time with background music. the other half trace first with background music and then with no background music. the time taken to trace around thestar under these two conditions appears below:
+
+Without background music | With background music
+-------------------------|----------------------
+1.23 | 2.02
+2.22 | 4.23
+1.35 | 2.67
+2.43 | 2.55
+4.55 | 5.12
+2.12 | 3.12
+1.10 | 2.22
+1.65 | 4.12
+1.11 | 3.78
+2.89 | 3.33
+
+
+1. Open up a new R Script and enter in these data...
+
+```{r data}
+# here is one of many ways to enter the data...
+music <- c(1.23 , 2.22, 1.35, 2.43, 4.55, 2.12, 1.10, 1.65, 1.11, 2.89)
+nonMusic <- c(2.02, 4.23, 2.67, 2.55, 5.12, 3.12, 2.22, 4.12, 3.78, 3.33)
+```
+
+2. Take a look at the t.test help file to remind yourself what the function asks for...
+
+```{r tHelp, eval=FALSE}
+# call this line 
+# (while you have the line highlighted in your script, you can use the shortcut, crtl+r)
+
+?t.test
+```
+
+4. take a preliminary look at the means...
+```{r}
+# the function 'mean' can take the mean of a vector, like the variable music or nonMusic
+mean(nonMusic)
+
+mean(music)
+
+# how different are these means?
+
+mean(nonMusic) - mean(music)
+```
+
+4. look at standard error
+
+```{r}
+# sd is the function for standard deviation
+# sqrt is the function for taking the square root
+# 10 is the number of participants in this study
+# the order of subtraction (i.e., whether we subtract music from nonMusic or nonMusic from music) doesn't 
+# matter, especially since we're looking at a t-test with a two-sided alternative.
+sd(music-nonMusic) / sqrt(10)
+
+# demonstration of concept
+sd(nonMusic-music) / sqrt(10)
+```
+
+The goal of the t-test is to determine whether we should attribute this difference in the means to more than chance. So, let's see what statistics has to say:
+
+
+5. Run the paired samples t-test
+```{r}
+t.test(music,nonMusic  # these are the samples that we are comparing
+       , alternative='two.sided' # two.sided, because we're not presupposing 
+                                  # that one group is faster than the other
+       , mu=0 # this is the null hypothesis difference that we're testing against
+       , paired=TRUE # the samples in the different groups came from the same person
+       , var.equal = TRUE # assuming equal variance in the two groups
+       , conf.level = .95) # testing at alpha = .05
+```
+
+
+How does this compare to the output from SPSS?
