@@ -34,4 +34,4 @@ Materials for TAing UMass Amherst Psych241
 
 
 # Other References
-- [Invisible Writing](http://psadil.github.io/psych241/stroopFiles/useful/invisibleWriting.pdf)
+- [Invisible Writing](http://psadil.github.io/psych241/useful/invisibleWriting.pdf)
