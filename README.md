@@ -14,13 +14,17 @@ Materials for TAing UMass Amherst Psych241
 - [February 2, 2016](http://psadil.github.io/psych241/lab4_2feb2016.pdf)
     - [download](http://psadil.github.io/psych241/lab4_2feb2016.pptx)
 
+- [February 4, 2016](http://psadil.github.io/psych241/lab5_4feb2016.pdf)
+    - [download](http://psadil.github.io/psych241/lab5_4feb2016.pptx)
+
 
 ## Stroop files
-- [Whole Class, SPSS output](http://psadil.github.io/psych241/SPSS_output_stroop2016.pdf)
-    - [download](http://psadil.github.io/psych241/SPSS_output_stroop2016.pdf)
+- [Whole Class, SPSS output](http://psadil.github.io/psych241/stroopFiles/SPSS_output_stroop2016.pdf)
+    - [download](http://psadil.github.io/psych241/stroopFiles/SPSS_output_stroop2016.pdf)
 
-- [Whole Class, Raw Data (download only)](http://psadil.github.io/psych241/allDataStroop.xlsx)
+- [Whole Class, Raw Data (download only)](http://psadil.github.io/psych241/stroopFiles/allDataStroop.xlsx)
 
-- [Running a simple paired samples t-test in R](http://psadil.github.io/psych241/pairedSamples_tTest.pdf)
-    - [download](http://psadil.github.io/psych241/pairedSamples_tTest.pdf)
+- [Running a simple paired samples t-test in R](http://psadil.github.io/psych241/stroopFiles/pairedSamples_tTest.pdf)
+    - [download](http://psadil.github.io/psych241/stroopFiles/pairedSamples_tTest.pdf)
 
+- [Stimuli (download only)](http://psadil.github.io/psych241/stroopFiles/StroopStimuli.docx)
