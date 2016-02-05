@@ -28,3 +28,10 @@ Materials for TAing UMass Amherst Psych241
     - [download](http://psadil.github.io/psych241/stroopFiles/pairedSamples_tTest.pdf)
 
 - [Stimuli (download only)](http://psadil.github.io/psych241/stroopFiles/StroopStimuli.docx)
+
+- [Stroop 1935](http://psadil.github.io/psych241/stroopFiles/stroop1935.pdf)
+    - [download](http://psadil.github.io/psych241/stroopFiles/stroop1935.pdf)
+
+
+# Other References
+- [Invisible Writing](http://psadil.github.io/psych241/stroopFiles/useful/invisibleWriting.pdf)
