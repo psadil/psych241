@@ -14,8 +14,8 @@ Materials for TAing UMass Amherst Psych241
 - [February 2, 2016](http://psadil.github.io/psych241/lab4_2feb2016.pdf)
     - [download](http://psadil.github.io/psych241/lab4_2feb2016.pptx)
 
-- [February 4, 2016](http://psadil.github.io/psych241/lab5_4feb2016.pdf)
-    - [download](http://psadil.github.io/psych241/lab5_4feb2016.pptx)
+- [February 4, 2016](http://psadil.github.io/psych241/lab5_4feb2016_tmp.pdf)
+    - [download](http://psadil.github.io/psych241/lab5_4feb2016_tmp.pptx)
 
 
 ## Stroop files
