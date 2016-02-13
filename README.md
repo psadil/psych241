@@ -20,6 +20,10 @@ Materials for TAing UMass Amherst Psych241
 - [February 9, 2016](http://psadil.github.io/psych241/lab6_9feb2016_uploaded.pdf)
     - [download](http://psadil.github.io/psych241/lab6_9feb2016_uploaded.pptx)
 
+- [February 11, 2016](http://psadil.github.io/psych241/lab7_11feb2016_uploaded.pdf)
+    - [download](http://psadil.github.io/psych241/lab7_11feb2016_uploaded.pptx)
+
+
 ## Stroop files
 - [Whole Class, SPSS output](http://psadil.github.io/psych241/stroopFiles/SPSS_output_stroop2016.pdf)
     - [download](http://psadil.github.io/psych241/stroopFiles/SPSS_output_stroop2016.pdf)
@@ -37,3 +41,5 @@ Materials for TAing UMass Amherst Psych241
 
 # Other References
 - [Invisible Writing](http://psadil.github.io/psych241/useful/invisibleWriting.docx)
+
+- [APA Checklist, Stroop](http://psadil.github.io/psych241/useful/APA_Checklist_stroop.docx)
