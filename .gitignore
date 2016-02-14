@@ -22,16 +22,21 @@ vignettes/*.pdf
 #_site/
 #*.html
 
+# preProcessed
 pre/
 **/pre
 
+# folders not to see
 other/
 **/other
 
+# keep organized
 *.xlsx
 
+# keep slides out
 *.pptx
 *.pdf
 
+# keep slides out
 slides/
 **/slides
