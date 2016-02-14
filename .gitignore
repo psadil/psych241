@@ -25,7 +25,6 @@ vignettes/*.pdf
 pre/
 **/pre
 
-
 other/
 **/other
 
@@ -33,3 +32,6 @@ other/
 
 *.pptx
 *.pdf
+
+slides/
+**/slides
