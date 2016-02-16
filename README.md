@@ -40,6 +40,6 @@ Materials for TAing UMass Amherst Psych241
 
 
 ## Other References
-- [Invisible Writing (download only)](http://psadil.github.io/psych241/useful/invisibleWriting.docx)
+- [Invisible Writing (download only)](https://github.com/psadil/psadil.github.io/blob/master/psych241/useFul/invisibleWriting.docx?raw=true)
 
-- [APA Checklist, Stroop (download only)](http://psadil.github.io/psych241/useful/APA_Checklist_stroop.docx)
+- [APA Checklist, Stroop (download only)](https://github.com/psadil/psadil.github.io/blob/master/psych241/useFul/APA_Checklist_stroop.docx?raw=true)
