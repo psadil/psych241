@@ -23,6 +23,9 @@ Materials for TAing UMass Amherst Psych241
 - [February 11, 2016](http://psadil.github.io/psych241/lab7_11feb2016.pdf)
     - [download](http://psadil.github.io/psych241/lab7_11feb2016.pptx)
 
+- [February 18, 2016](http://psadil.github.io/psych241/lab8_18feb2016.pdf)
+    - [download](http://psadil.github.io/psych241/lab8_18feb2016.pptx)
+
 
 ## Stroop files
 - [Whole Class, SPSS output](http://psadil.github.io/psych241/stroopFiles/SPSS_output_stroop2016.pdf)
