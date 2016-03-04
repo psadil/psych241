@@ -45,7 +45,7 @@ Materials for TAing UMass Amherst Psych241
 
 - [item spreadsheet (download only)](http://psadil.github.io/psych241/survey/itemData.xlsx)
 
-- [demographics spreadheet (download only)](http://psadil.github.io/psych241/survey/DemogData.xlsx)
+- [demographics spreadheet (download only)](http://psadil.github.io/psych241/survey/demogData.xlsx)
 
 - [article answers, (download only)](http://psadil.github.io/psych241/survey/demogQs.docx)
 
