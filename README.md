@@ -54,6 +54,11 @@ Materials for TAing UMass Amherst Psych241
 
 - [article answers, (download only)](http://psadil.github.io/psych241/survey/demogQs.docx)
 
+- [sample paper, (download only)](http://psadil.github.io/psych241/survey/samplePaper.docx)
+
+
+
+
 
 ## Stroop files
 - [Whole Class, SPSS output](http://psadil.github.io/psych241/stroopFiles/SPSS_output_stroop2016.pdf)
