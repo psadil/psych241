@@ -44,6 +44,9 @@ Materials for TAing UMass Amherst Psych241
 - [March 10, 2016](http://psadil.github.io/psych241/lab14_10mar2016.pdf)
     - [download](http://psadil.github.io/psych241/lab14_10mar2016.pptx)    
 
+- [March 22, 2016](http://psadil.github.io/psych241/lab15_22mar2016.pdf)
+    - [download](http://psadil.github.io/psych241/lab15_22mar2016.pptx)    
+
 
 ## Survey Files
 - [Survey, to administer (download only)](http://psadil.github.io/psych241/survey/survey_labLS.docx)
