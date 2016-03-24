@@ -61,6 +61,7 @@ Materials for TAing UMass Amherst Psych241
 
 - [checklist, (download only)](http://psadil.github.io/psych241/survey/checklist_survey.docx)
 
+- [data, overview, (download only)](http://psadil.github.io/psych241/survey/surveyData_output.doc)
 
 
 
