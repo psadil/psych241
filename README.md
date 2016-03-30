@@ -73,6 +73,11 @@ Materials for TAing UMass Amherst Psych241
 
 - [filled out data (download only)](http://psadil.github.io/psych241/survey/itemData_total.xlsx)
 
+- [descriptive statistics of demographic data](http://psadil.github.io/psych241/survey/demographicDescriptives.pdf)
+
+
+
+
 
 
 ## Stroop files
