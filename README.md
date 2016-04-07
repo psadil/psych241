@@ -90,7 +90,7 @@ Materials for TAing UMass Amherst Psych241
 
 - [descriptive statistics of demographic data](http://psadil.github.io/psych241/survey/demographicDescriptives.pdf)
 
-
+- [Number of people in each level of the demographcis](http://psadil.github.io/psych241/survey/demographicFrequencies.pdf)
 
 
 
