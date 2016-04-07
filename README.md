@@ -111,3 +111,9 @@ Materials for TAing UMass Amherst Psych241
 - [Invisible Writing (download only)](https://github.com/psadil/psadil.github.io/blob/master/psych241/useFul/invisibleWriting.docx?raw=true)
 
 - [APA Checklist, Stroop (download only)](https://github.com/psadil/psadil.github.io/blob/master/psych241/useFul/APA_Checklist_stroop.docx?raw=true)
+
+- [Cronbach's Alpha](https://www.youtube.com/watch?v=2gHvHm2SE5s)
+
+- [correlations, explained through dance](https://www.youtube.com/watch?v=VFjaBh12C6s)
+
+- [correlations (longer, more details about underlying maths)](https://www.youtube.com/watch?v=ZkjP5RJLQF4&list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi)
