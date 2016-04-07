@@ -112,7 +112,9 @@ Materials for TAing UMass Amherst Psych241
 
 - [APA Checklist, Stroop (download only)](https://github.com/psadil/psadil.github.io/blob/master/psych241/useFul/APA_Checklist_stroop.docx?raw=true)
 
-- [Cronbach's Alpha](https://www.youtube.com/watch?v=2gHvHm2SE5s)
+- [Cronbach's Alpha (practical how 2 in SPSS)](https://www.youtube.com/watch?v=2gHvHm2SE5s)
+
+- [Cronbach's Alpha (more detailed explanation)](https://www.youtube.com/watch?v=PCztXEfNJLM&src_vid=2gHvHm2SE5s&annotation_id=annotation_3327061173&feature=iv)
 
 - [correlations, explained through dance](https://www.youtube.com/watch?v=VFjaBh12C6s)
 
