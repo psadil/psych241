@@ -68,6 +68,10 @@ Materials for TAing UMass Amherst Psych241
 - [April 14, 2016](http://psadil.github.io/psych241/lab22_14apl2016.pdf)
     - [download](http://psadil.github.io/psych241/lab22_14apl2016.pptx)    
 
+- [April 19, 2016](http://psadil.github.io/psych241/lab23_19apl2016.pdf)
+    - [download](http://psadil.github.io/psych241/lab23_19apl2016.pptx)    
+
+
 ## Jury Files
 
 - [ANOVA in R](http://psadil.github.io/psych241/jury/anovaInR.pdf)
